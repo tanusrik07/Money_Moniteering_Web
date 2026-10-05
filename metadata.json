@@ -1,0 +1,6 @@
+{
+  "name": "CampusSpend - College Student Expense & Money Monitor",
+  "description": "Comprehensive student budget tracker, pocket money monitor, category spending manager (clothing, food, books, hostel), roommate bill splitter, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
